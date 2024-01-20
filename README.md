@@ -2,7 +2,7 @@
 Plist file to replace dictation key and do not disturb key to keyboard brightness up and down
 
 How to Use:
-- When In Finder
+- Open Finder
 - Click on view button and hold Option Key
 - Click on 'Library'
 - Go to 'Lauch Agents'
